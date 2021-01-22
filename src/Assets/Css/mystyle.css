@@ -1,0 +1,689 @@
+.topFixedBanner{
+    background-image: url("../Images/bg.jpg");
+    width: 100%;
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.topBannerOverlay{
+    min-height: 500px;
+    width: 100%;
+    background: rgba(0,0,0,.1);
+
+}
+
+.topContent{
+
+    margin-top: 10rem;
+}
+
+.topContentTitle{
+    font-family: 'Great Vibes',sans-serif;
+    color: magenta;
+    font-weight: 900;
+    font-size: 50px;
+    margin-left: 2rem;
+}
+
+.topContentTitle:hover{
+
+    color: darkorange;
+
+}
+
+
+.topSubtitle{
+
+    font-family: 'RaleWay',sans-serif;
+     color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.btn{
+
+    font-size: 18px;
+    padding: 10px 40px;
+    color: white;
+    text-decoration: none;
+    border: none;
+    width: 200px;
+    font-weight: 500;
+    font-size: 14px;
+    font-family: 'RaleWay', sans-serif;
+    border-radius: 30px;
+    background-color: rgb(255,69,79);
+}
+
+
+.btn:hover{
+
+     color: red;
+    background-color: aqua;
+
+}
+
+.topnavTitle{
+
+    font-family: 'Great Vibes',sans-serif; /* Great Vibes*/
+    color:white;
+    font-weight: 900;
+    font-size: 28px;
+    text-decoration: none;
+
+
+}
+
+.topnavTitleScroll{
+
+
+    color:blueviolet;
+     font-family: 'Great Vibes',sans-serif; /* Great Vibes*/
+
+    font-weight: 900;
+    font-size: 28px;
+    text-decoration: none;
+}
+
+
+.topnavLink{
+   text-decoration: none !important;
+}
+
+.navSubTitle{
+     font-family: 'RaleWay',sans-serif; /* Great Vibes*/
+    color:white ;
+    font-weight: 400;
+    font-size: 18px;
+    text-decoration: none !important;
+}
+
+.navSubTitle:hover{
+
+    color:midnightblue ;
+    text-decoration: none !important;
+
+}
+
+.navSubTitleScroll{
+
+    font-family: 'RaleWay',sans-serif;
+    color:orangered ;
+    font-weight: 400;
+    font-size: 18px;
+     text-decoration: none !important;
+}
+
+.navSubTitleScroll:hover{
+
+    color:black ;
+     text-decoration: none !important;
+
+}
+
+.navColor{
+    -webkit-transition:  background-color 400ms linear;
+    -moz-transition:background-color 400ms linear;
+    -o-transition: background-color 400ms linear;
+    transition: background-color 400ms linear;
+    background-color: sandybrown;
+}
+
+.navColorScroll{
+    -webkit-transition:  background-color 400ms linear;
+    -moz-transition:background-color 400ms linear;
+    -o-transition: background-color 400ms linear;
+    transition: background-color 400ms linear;
+    background-color: springgreen;
+    border: 1px solid white;
+
+    margin: 10px;
+}
+
+.storyTitleOne{
+    font-family: 'Great Vibes',sans-serif;
+    font-weight: 900;
+    font-size: 60px;
+    color: deeppink;
+
+}
+
+.storyTitleTwo{
+    font-family: "Montserrat",sans-serif;
+     font-weight: 700;
+     font-size: 40px;
+    color: purple;
+}
+
+.storyDes{
+
+    font-family: "RaleWay",sans-serif;
+     font-weight: 400;
+     font-size: 14px;
+    color:black;
+}
+
+.readMore{
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'RaleWay', sans-serif;
+    color: white;
+    background-color: orangered;
+    padding: 10px 30px;
+    width: 170px;
+   margin: 0 auto;
+    border-radius: 40px;
+    text-decoration: none !important;
+}
+
+.readMore:hover{
+    background: cyan;
+    color: red;
+    text-decoration: none !important;
+}
+
+.ListOfFoodColor{
+    background-color: lemonchiffon;
+}
+
+.ListOfFoodTitle{
+
+    color:fuchsia;
+    font-family: "Montserrat",sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+
+}
+
+.cardOfProducts{
+    border: 1px solid yellow;
+    margin: 0px 5px;
+    padding: 15px;
+    box-shadow: 0 0 4px 0 rgba(0,115,230,0.2);
+
+}
+
+.cardOfProducts:hover{
+    border: 1px solid yellow;
+    margin: 0px 5px;
+    box-shadow: 0 0 8px 0 rgba(0,115,230,0.4);
+
+}
+
+.marqueClass{
+      font-family: "Great Vibes",sans-serif;
+    font-weight: 900;
+    font-size: 40px;
+
+}
+
+.marqueClassCol{
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+}
+
+
+.projectCard{
+    border-radius: 2px;
+    border: none !important;
+    margin: 2px 2px 2px 2px;
+    box-shadow: 0 0 6px 0 rgba(0,115,230,0.4);
+    background-color: lemonchiffon;
+}
+
+.projectCard:hover{
+    border-radius: 2px;
+    border: none !important;
+    margin: 2px 2px 2px 2px;
+    box-shadow: 0 0 8px 0 rgba(0,0,0,0.9);
+}
+
+
+.imageClass{
+
+    margin: 0 auto;
+    height: 220px;
+    width: 220px;
+    border-radius: 50%;
+    border: 1px solid yellow;
+
+}
+
+.projectCardTitle{
+
+    font-family: 'Montserreat',sans-serif;
+    color: deeppink;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.projectCardDes{
+    font-family: 'RaleWay',sans-serif;
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.MoneyProduct{
+     font-family: 'RaleWay',sans-serif;
+    color: deepskyblue;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.middleBanner{
+
+    background-image: url("../Images/banner.jpg");
+    min-height: 420px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.middleBannerOverlay{
+    min-height: 420px;
+    width: 100%;
+    position: absolute;
+    background-color: rgba(0,0,0,0.4);
+
+}
+
+
+.SummeryText{
+    margin-top:8%;
+    color: white;
+
+}
+
+.btn2{
+
+
+    padding: 10px 40px;
+    color: white;
+    text-decoration: none;
+    border: none;
+    width: 200px;
+    font-weight: 500;
+    font-size: 14px;
+    margin: 10px auto;
+    font-family: 'RaleWay', sans-serif;
+    border-radius: 30px;
+    background-color: rgb(255,69,79);
+    text-decoration: none !important;
+
+
+}
+
+.btn2:hover{
+
+     color: red;
+    background-color: aqua;
+
+}
+
+.reservation{
+     font-family: 'Great Vibes',sans-serif;
+    color: deepskyblue;
+    font-size: 60px;
+    font-weight: 900;
+    padding: 0px;
+    margin: 0px;
+}
+
+.bookTable{
+     font-family: 'Montserrat',sans-serif;
+    color: navy;
+    font-size: 24px;
+    font-weight: 600;
+
+}
+
+.posCenter{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.cardOfSummery{
+    background-color: white;
+    width: 300px;
+    margin: 8% auto;
+    padding: 15px;
+    border-radius: 2%;
+
+}
+
+.imagePosition{
+    border-radius: 5%;
+}
+
+.clientImage{
+
+    margin: 5px auto;
+}
+
+.clientDes{
+    font-family: "RaleWay",sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    margin-top: 40px;
+    text-align: center;
+
+}
+
+.desinOfFooter{
+
+    background:rgb(26,4,0) ;
+    color: white;
+
+}
+
+
+.footerAddress{
+    margin-left: 5rem;
+    font-size: 28px;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+
+.footerAddress11{
+    margin-left: 2rem;
+    font-size: 28px;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.footerAddress2{
+    margin-left: 5rem;
+    font-size: 14px;
+    font-family: 'RaleWay',sans-serif;
+    font-weight: 500;
+}
+
+.footerAddress22{
+    margin-left: 2rem;
+    font-size: 14px;
+    font-family: 'RaleWay',sans-serif;
+    font-weight: 500;
+}
+
+.footerAddress3{
+    margin-left: 2rem;
+     font-size: 28px;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.footerAddress4{
+
+   font-size: 14px;
+    font-family: 'RaleWay',sans-serif;
+    font-weight: 500;
+}
+
+.footerAddress5{
+     margin-left: 5rem;
+   font-size: 34px;
+    font-family: 'RaleWay',sans-serif;
+    font-weight: 500;
+
+}
+
+.pageTopImage{
+    background-image: url("../Images/fastFood.jpg");
+    min-height: 380px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.viewFoods{
+    font-family: "Montserrat",sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    color: deeppink;
+
+}
+
+.ImageClassOfFood{
+     margin: 0 auto;
+    height: 180px !important;
+    width: 180px !important;
+    border-radius: 50%;
+
+}
+
+.FastFoodDes{
+    font-size: 24px;
+    font-weight: 900;
+    font-family: 'Montserrat',RaleWay;
+    color: green;
+
+}
+
+.FastFoodDes2{
+     font-size: 18px;
+    font-weight: 500;
+    font-family: 'Raleway',RaleWay;
+    color: navy;
+}
+
+.mybutton{
+
+    width: 100px;
+    text-align: center;
+}
+
+.btnofFastfood{
+
+
+    color: white;
+    text-decoration: none;
+    border: none;
+    width: 100px;
+    font-weight: 500;
+    font-size: 14px;
+    margin: 5px auto;
+    font-family: 'RaleWay', sans-serif;
+    border-radius: 30px;
+    background-color: rgb(255,69,79);
+    text-decoration: none !important;
+
+}
+
+.textDecoration{
+     text-decoration: none !important;
+
+}
+
+
+.btnofFastfood:hover{
+
+
+    color: red;
+    text-decoration: none;
+    border: none;
+    width: 100px;
+    font-weight: 500;
+    font-size: 14px;
+    margin: 5px auto;
+    font-family: 'RaleWay', sans-serif;
+    border-radius: 30px;
+    background-color: aqua;
+}
+
+.NameChange{
+    margin-top: 12%;
+    color: red;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.NameChange2{
+
+    background: white;
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 5px;
+
+
+}
+
+
+.ContactSectionTitle{
+       font-family: 'Montserrat',sans-serif;
+      font-weight: 700;
+       font-size: 30px;
+        color: red;
+}
+
+.CuruculamOfFrom{
+
+    width: 450px;
+    padding-left: 20px;
+    border-radius: 30px;
+    margin: 0 auto;
+}
+
+.imageClassCon{
+    margin: 0 auto;
+}
+
+.CuruculamOfFrom2{
+
+    width: 450px;
+    padding-left: 20px;
+    border-radius: 30px;
+    margin: 0 auto;
+}
+
+
+
+.nameClass{
+
+    border-radius: 30px;
+
+}
+
+.OrderButton{
+
+     color: white;
+    text-decoration: none;
+    border: none;
+    width: 100%;
+    font-weight: 500;
+    font-size: 14px;
+    margin: 5px auto;
+    font-family: 'RaleWay', sans-serif;
+    border-radius: 30px;
+    background-color: blueviolet;
+
+}
+
+.OrderButton:hover{
+
+     color: white;
+    text-decoration: none;
+    border: none;
+    width: 100%;
+    font-weight: 500;
+    font-size: 14px;
+    margin: 5px auto;
+    font-family: 'RaleWay', sans-serif;
+    border-radius: 30px;
+    background-color: navy;
+
+}
+
+.textDecoration{
+    text-decoration: none !important;
+}
+
+.buttonclass{
+
+    margin-right: 40px;
+}
+
+
+.headingOfStory{
+
+      font-family: 'Great Vibes',sans-serif;
+    color: deepskyblue;
+    font-size: 40px;
+    font-weight: 900;
+    margin: 0 auto;
+}
+
+.headingOfStoryDes{
+    font-family: 'Raleway',sans-serif;
+    color: black;
+    font-size: 16px;
+    font-weight: 700;
+    margin: 0 auto;
+
+}
+
+
+.footerUrl{
+    text-decoration: none !important;
+    color: white;
+
+}
+
+.AboutResturent{
+    font-family: 'Montserrat',sans-serif;
+    color: orange;
+    font-size: 40px;
+    font-weight: 800;
+    margin: 0 auto;
+}
+
+.ResturentDes{
+    font-family: 'Raleway',sans-serif;
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0 auto;
+}
+
+.singleFoodEdit1{
+    width: 80%;
+    height: 100%;
+    margin:0 auto;
+}
+.singleImage{
+    height: 400px;
+    width: 100%;
+}
+
+.headerTitleT{
+    font-family: 'Montserreat',sans-serif;
+    font-weight: 700;
+    color: deeppink;
+    font-size: 32px;
+}
+
+.circuleImage{
+    margin: 0 auto;
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+}
+
+.courseTitle{
+    color: orangered;
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+    font-max-size: 28px;
+}
+
+

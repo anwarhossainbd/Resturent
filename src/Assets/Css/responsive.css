@@ -1,0 +1,550 @@
+
+@media (max-width: 575.98px) {
+
+    .cardOfSummery{
+        width: 270px;
+        margin: 17% auto;
+
+
+    }
+    .bookTable{
+        color: navy;
+        font-size: 18px;
+        font-weight: 600;
+    }
+    .middleBanner{
+
+
+        min-height: 400px;
+
+
+
+    }
+    .middleBannerOverlay{
+        min-height: 400px;
+
+
+    }
+    .topFixedBanner{
+        min-height: 400px;
+    }
+    .topBannerOverlay{
+        min-height: 400px;
+    }
+    .topContentTitle{
+        font-weight: 800;
+        font-size: 40px;
+
+    }
+    .topSubtitle{
+        font-weight: 400;
+        font-size: 14px;
+    }
+    .topContent{
+
+        margin-top: 9rem;
+    }
+    .btn{
+
+        font-size: 14px;
+        padding: 5px 20px;
+
+
+        width: 140px;
+        font-weight: 400;
+
+
+    }
+    .navSubTitle{
+         padding-left: 20px;
+        font-size: 14px;
+    }
+    .responsive{
+        /*box-shadow: 0 0 2px 0 rgba(0,115,230,0.1);*/
+
+        border-bottom: 2px solid rgba(0,115,230,0.3);
+
+    }
+    .navSubTitle:hover{
+
+    }
+    .navSubTitleScroll{
+
+        padding-left: 20px;
+        font-size: 14px;
+    }
+    .navSubTitleScroll:hover{
+
+
+    }
+    .projectCardTitle{
+        font-size: 24px;
+        font-weight: 600;
+    }
+    .projectCardDes{
+
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .projectCard{
+
+
+        margin: 0px 70px;
+        box-shadow: 0 0 6px 0 rgba(0,115,230,0.6);
+        background-color: lemonchiffon;
+    }
+    .projectCard:hover{
+
+        margin: 0px 2px;
+        box-shadow: 0 0 12px 0 rgba(0,0,0,0.9);
+    }
+    .footerAddress22{
+        margin-left: 5rem;
+    }
+    .footerAddress11{
+        margin-left: 5rem;
+
+    }
+    .pageTopImage{
+
+        min-height: 280px;
+    }
+    .viewFoods{
+        font-weight: 700;
+        font-size: 24px;
+
+
+    }
+    .ImageClassOfFood{
+
+        height: 220px !important;
+        width: 220px !important;
+
+
+    }
+    .NameChange{
+        margin-top: 22%;
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .NameChange2{
+        width: 220px;
+    }
+    .FastFoodDes{
+        font-size: 20px;
+        font-weight: 700;
+    }
+    .contactEdit{
+        width: 80%;
+        margin: 0 auto;
+    }
+    .OrderButton{
+        width: 100%;
+        margin: 0 auto;
+    }
+    .OrderEdit{
+        width: 85%;
+        margin: 0 auto;
+    }
+    .AboutResturent{
+
+        font-size: 28px;
+        font-weight: 700;
+        margin: 0 auto;
+    }
+    .aboutSectionC{
+        margin-left: 5rem;
+        margin-right: 2rem;
+    }
+    .ResturentDes{
+
+        font-size: 14px;
+
+    }
+    .singleFoodEdit1{
+
+        width: 80%;
+        height: 100%;
+        margin: 0 auto;
+    }
+    .singleImage{
+        margin: 0 auto;
+    }
+
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    .cardOfSummery{
+        width: 270px;
+        margin: 20% auto;
+    }
+    .bookTable{
+        color: navy;
+        font-size: 18px;
+        font-weight: 600;
+    }
+    .middleBanner{
+
+
+        min-height: 420px;
+
+
+
+    }
+    .middleBannerOverlay{
+        min-height: 420px;
+
+
+    }
+    .topFixedBanner{
+        min-height: 400px;
+    }
+    .topBannerOverlay{
+        min-height: 400px;
+    }
+
+    .topContentTitle{
+        font-weight: 800;
+        font-size: 40px;
+    }
+    .topSubtitle{
+        font-weight: 500;
+        font-size: 14px;
+    }
+    .topContent{
+        margin-top: 9rem;
+    }
+    .btn{
+
+        font-size: 14px;
+        padding: 5px 20px;
+
+
+        width: 140px;
+        font-weight: 400;
+
+
+    }
+
+
+    .navSubTitle{
+        padding-left: 20px;
+        font-size: 16px;
+    }
+    .responsive{
+        /*box-shadow: 0 0 2px 0 rgba(0,115,230,0.1);*/
+
+        border-bottom: 2px solid rgba(0,115,230,0.3);
+
+    }
+    .navSubTitle:hover{
+
+    }
+    .navSubTitleScroll{
+
+        padding-left: 20px;
+        font-size: 16px;
+    }
+    .navSubTitleScroll:hover{
+
+
+    }
+
+
+    .projectCardTitle{
+        font-size: 24px;
+        font-weight: 600;
+    }
+    .projectCardDes{
+
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .projectCard{
+
+
+        margin: 0px 30px;
+        box-shadow: 0 0 6px 0 rgba(0,115,230,0.6);
+        background-color: lemonchiffon;
+    }
+    .projectCard:hover{
+
+        margin: 0px 2px;
+        box-shadow: 0 0 12px 0 rgba(0,0,0,0.9);
+    }
+    .footerAddress22{
+        margin-left: 5rem;
+    }
+    .footerAddress11{
+        margin-left: 5rem;
+
+    }
+
+
+    .pageTopImage{
+
+        min-height: 280px;
+    }
+    .viewFoods{
+        font-weight: 700;
+        font-size: 40px;
+
+
+    }
+    .ImageClassOfFood{
+
+        height: 220px !important;
+        width: 220px !important;
+
+
+    }
+    .NameChange{
+        margin-top: 18%;
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .NameChange2{
+        width: 220px;
+    }
+
+
+    .FastFoodDes{
+        font-size: 20px;
+        font-weight: 700;
+    }
+    .contactEdit{
+        width: 80%;
+        margin: 0 auto;
+    }
+    .OrderButton{
+        width: 100%;
+        margin: 0 auto;
+    }
+    .OrderEdit{
+        width: 85%;
+        margin: 0 auto;
+    }
+
+
+    .AboutResturent{
+
+        font-size: 32px;
+        font-weight: 700;
+        margin: 0 auto;
+    }
+    .aboutSectionC{
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+    .ResturentDes{
+
+        font-size: 16px;
+
+    }
+    .singleFoodEdit1{
+
+        width: 80%;
+        height: 100%;
+        margin: 0 auto;
+    }
+    .singleImage{
+        margin: 0 auto;
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+
+    .cardOfSummery{
+        width: 280px;
+        margin: 13% auto;
+    }
+    .bookTable{
+        color: navy;
+        font-size: 22px;
+        font-weight: 600;
+    }
+    .middleBanner{
+        min-height: 420px;
+    }
+    .middleBannerOverlay{
+        min-height: 420px;
+
+
+    }
+    .topFixedBanner{
+        min-height: 450px;
+    }
+    .topBannerOverlay{
+        min-height: 450px;
+    }
+    .topContentTitle{
+        font-weight: 800;
+        font-size: 40px;
+    }
+    .topSubtitle{
+        font-weight: 500;
+        font-size: 15px;
+    }
+    .topContent{
+        margin-top: 9rem;
+    }
+    .btn{
+
+       font-size: 14px;
+       padding: 7px 20px;
+
+
+       width: 140px;
+       font-weight: 400;
+
+
+   }
+    .navSubTitle{
+        padding-left: 20px;
+        font-size: 16px;
+    }
+    .responsive{
+        /*box-shadow: 0 0 2px 0 rgba(0,115,230,0.1);*/
+
+        border-bottom: 2px solid rgba(0,115,230,0.3);
+
+    }
+    .navSubTitle:hover{
+
+    }
+    .navSubTitleScroll{
+
+        padding-left: 20px;
+        font-size: 16px;
+    }
+    .navSubTitleScroll:hover{
+
+
+    }
+
+
+    .projectCardTitle{
+        font-size: 28px;
+        font-weight: 700;
+    }
+    .projectCardDes{
+
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .projectCard{
+        margin: 0px 30px;
+        box-shadow: 0 0 6px 0 rgba(0,115,230,0.6);
+        background-color: lemonchiffon;
+    }
+    .projectCard:hover{
+
+        margin: 0px 2px;
+        box-shadow: 0 0 12px 0 rgba(0,0,0,0.9);
+    }
+
+    .pageTopImage{
+
+        min-height: 340px;
+    }
+    .viewFoods{
+        font-weight: 700;
+        font-size: 40px;
+
+
+    }
+    .ImageClassOfFood{
+
+        height: 220px !important;
+        width: 220px !important;
+    }
+    .NameChange{
+        margin-top: 18%;
+        font-size: 24px;
+        font-weight: 600;
+    }
+    .NameChange2{
+        width: 250px;
+    }
+
+    .FastFoodDes{
+        font-size: 22px;
+        font-weight: 700;
+    }
+    .contactEdit{
+        width: 80%;
+        margin: 0 auto;
+    }
+    .OrderButton{
+        width: 100%;
+        margin: 0 auto;
+    }
+    .OrderEdit{
+        width: 90%;
+        margin: 0 auto;
+    }
+
+
+    .AboutResturent{
+
+        font-size: 36px;
+        font-weight: 700;
+        margin: 0 auto;
+    }
+    .aboutSectionC{
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+    .ResturentDes{
+
+        font-size: 18px;
+
+    }
+    .singleFoodEdit1{
+
+        width: 80%;
+        height: 100%;
+        margin: 0 auto;
+    }
+    .singleImage{
+        margin: 0 auto;
+    }
+
+
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    .NameChange{
+        margin-top: 15%;
+        color: red;
+        font-family: 'Montserrat',sans-serif;
+        font-weight: 700;
+        font-size: 30px;
+    }
+
+    .topSubtitle{
+        font-weight: 400;
+        font-size: 18px;
+    }
+
+    .cardOfSummery{
+        width: 280px;
+        margin: 10% auto;
+    }
+
+    .FastFoodDes{
+        font-size: 20px;
+        font-weight: 700;
+    }
+
+}
+
+
+@media (min-width: 1200px) { }
